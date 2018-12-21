@@ -12,21 +12,23 @@ folder: general
 {% include image.html file="sparc_workflow.png" alt="workflow" %}
 
 
-### Creation of a draft dataset
-**Timeline:** Creation of a draft dataset is up to the investigator 
+### Creating a draft dataset
+**Timeline:** At any time, users can create a draft dataset within the SPARC Consortium organization in preparation for submitting the data to SPARC DAT-CORE. 
 
-**Who has access to the data:** The data is private and is accessible only to those that you specifically invite to access the data. Neither Blackfynn nor NIH can access the data unless you invite them.
+**Who has access to the data:** Draft data is private and is accessible only to those that you specifically invite to access the data. Neither Blackfynn, the curation team nor NIH can access the data unless you invite them.
 
 **Who owns the data:** The investigator that submitted the data or the person who is assigned as the owner of the dataset.
 
-**Process:** At any time, users can create a draft dataset within the SPARC Consortium organization in preparation for submitting the data under embargo. 
+**Process:**  During this step, investigators upload a data set that represents the completion of a milestone according to the standards esablished by SPARC. A dataset is defined as follows: The set of data files, supporting documents and metadata produced as the result of completing a milestone.  At time of submission, the  dataset may be considered complete, that is no new data will will be collected, or it may represent a batch or slice of data that is part of a larger data set being collected over several milestones.
 
-At this time, the data is private to the data owner. At any point in time, users can grant teams, or individual users to access to the draft dataset. The dataset owner can, at any point in time, leverage the platform functionality to access the data programmatically, or use the viewers to view and manipulate the data. As part of the SPARC Consortium organization, the data models and records are restricted to only the data standards that are developed by the Data Standards Committee.
-
-**Required steps for the data owner:**
-- Creating and naming a dataset (see: Creating datasets )
+**Steps for creating a draft dataset:**
+- Creating and naming a dataset in the SPARC data repository
 - Providing a short description for the dataset
-- Uploading files and organizing the dataset according to the requirements of the Data Curation Team.
+- Uploading files and organizing the dataset according to the requirements of the SPARC Data Standards Committee and Data Curation Team.
+
+**SPARC dataset requirements** Each dataset will comprise the following:
+- A protocol that has been [submitted to Protocols.io](https://docs.google.com/presentation/d/1WhoLvOVRIbCzu3x30Dd0O1cC09ZGT4g0IFOf4Eq7yfI/edit#slide=id.p) as part of the SPARC group
+
 
 ### Sharing draft dataset with the Data Curation Team
 **Timeline:** Sharing the data with the Data Curation Team should take place within 1 month of completing a project milestone (according to the SPARC Material Sharing Policy)
