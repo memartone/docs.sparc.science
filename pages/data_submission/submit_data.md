@@ -54,7 +54,7 @@ The data and metadata standards established by SPARC, as outlined below, must be
 **Process:** The Data Curation Team will work with the investigators to curate the dataset. Curation includes capturing the metadata, mapping it to the standardized metadata models developed by the SPARC Data Standards Committee, and integrating it into the SPARC Integrated Dataset (a master dataset that incorporates all SPARC data that has been curated).
 
 **Required steps for the data owner:**
-- Share the dataset with the SPARC Data Curation Team on the DAT-Core platform
+- [Share the dataset](http://help.blackfynn.com/blackfynn-web-application/interacting-with-other-users-on-the-platform/dataset-permissions) with the SPARC Data Curation Team on the DAT-Core platform
 - Work with the Curation Team to implement required curation
 
 ### 3. Release data to the SPARC consortium
